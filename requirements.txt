@@ -1,0 +1,4 @@
+discord.py[voice]==1.7.3(скачает все нужные библиотеки)
+discord==1.7.3
+yt-dlp=='новейшая версия'
+discord_components==https://github.com/kiki7000/discord.py-components
